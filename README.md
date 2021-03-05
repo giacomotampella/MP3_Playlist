@@ -52,3 +52,7 @@ Esempio di funzionamento del programma:
 - Correggere errore sulla richiesta:
      
        "Di quale album vuoi conoscere quali canzoni sono presenti nella tua playlist? :"
+
+- Correggere errore sulla creazione del file: 
+
+		playlist.txt
